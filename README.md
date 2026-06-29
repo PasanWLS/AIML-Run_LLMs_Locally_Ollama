@@ -28,4 +28,7 @@ HOW TO CALCULATE CAN RUN MODEL IN PC
 
 <img width="317" height="170" alt="Screenshot 2026-06-29 092524" src="https://github.com/user-attachments/assets/000496c0-ec8f-4694-8972-0938564ff2dd" />
 
+--------------------------------------------------------------------------------------------------
 
+# LM Studio
+ Can use GUI Version LLM with chat and upload functions
