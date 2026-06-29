@@ -18,3 +18,12 @@ CMD --> ollama run qwen3.5
 Change LLM --> ollama run ModelName 
 
 NOW CAN USE OLLAMA GUI 
+
+--------------------------------------------------------------------------------------------------
+HOW TO CALCULATE CAN RUN MODEL IN PC
+
+<img width="316" height="206" alt="image" src="https://github.com/user-attachments/assets/7ea7d11f-27e7-4cc5-9be2-094bdbff6f43" />
+
+<img width="317" height="170" alt="image" src="https://github.com/user-attachments/assets/cbb01da0-3dcf-48de-b41d-ba433800f64b" />
+
+
